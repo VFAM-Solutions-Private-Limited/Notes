@@ -1,0 +1,1 @@
+| **Q2 - Alluvial soil formed by rivers / crops grow well** | **(b)** Both true, R does not explain A | How crops grow does not explain how soil was formed |

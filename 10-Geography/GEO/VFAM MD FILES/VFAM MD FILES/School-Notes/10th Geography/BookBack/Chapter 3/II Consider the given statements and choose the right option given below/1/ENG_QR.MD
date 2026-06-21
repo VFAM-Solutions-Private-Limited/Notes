@@ -1,0 +1,1 @@
+| **Q1 - Horticulture / India ranks 1st** | **(b)** Both true, R does not explain A | Definition of horticulture has nothing to do with which fruits India produces most |
