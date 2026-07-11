@@ -9,17 +9,20 @@ The Peninsular rivers originate mostly from the **Western Ghats** and are **seas
 - Length: **851 km** — flows through **Odisha**.
 - Empties into **Bay of Bengal**.
 - Forms one of the **largest deltas** in India (Sundarban delta area).
+
 **ii) Godavari**
 - Longest peninsular river — **1465 km**.
 - Also called **"Vridha Ganga"** (Old Ganga).
 - Originates in **Nasik district, Maharashtra** (Western Ghats).
 - Flows through **Telangana and Andhra Pradesh** → Bay of Bengal.
 - Splits into **Vasishta and Gautami** near Rajahmundry.
+
 **iii) Krishna**
 - Second longest peninsular river — **1400 km**.
 - Originates at **Mahabaleshwar, Maharashtra** (Western Ghats).
 - Flows through **Andhra Pradesh** → Bay of Bengal at **Hamasaladeevi**.
 - Major tributaries: Bhima, Tungabhadra, Musi, Koyna.
+
 **iv) Kaveri (Cauvery)**
 - Originates at **Talakaveri, Kodagu Hills, Karnataka**.
 - Length: **800 km** — called **"Dakshina Ganga"** (Ganga of South).
