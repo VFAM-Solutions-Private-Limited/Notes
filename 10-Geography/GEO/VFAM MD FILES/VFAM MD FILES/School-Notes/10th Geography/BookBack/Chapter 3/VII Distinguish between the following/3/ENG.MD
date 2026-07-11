@@ -1,13 +1,10 @@
-### 3. Marine Fishing and Inland Fishing
+### Marine Fishing and Inland Fishing
  
-| Point | **Marine Fishing** | **Inland Fishing** |
-|---|---|---|
-| **Location** | Done in the sea (ocean) | Done in rivers, lakes, ponds, canals |
-| **Type of water** | Salt water | Fresh water |
-| **Area covered** | Coastal, offshore, and deep sea | Rivers, lakes, tanks, reservoirs |
-| **Leading state** | **Kerala** | **Andhra Pradesh** |
-| **Fish varieties** | Mackerel, Herrings, Mullets | Cat fish, Perches |
-| **Contribution** | About 50% of total production | About 50% of total production |
-| **Equipment** | Large boats, trawlers needed | Small boats or simple tools |
+| **Marine Fishing** | **Inland Fishing** |
+|---|---|
+| Marine fishing is carried out in the **sea and oceans**. | Inland fishing is carried out in **rivers, lakes, ponds and canals**. |
+| Marine fishing is done in **salt water**. | Inland fishing is done in **fresh water**. |
+| **Kerala** is the leading state in marine fishing. | **Andhra Pradesh** is the leading state in inland fishing. |
+| Major fish varieties include **Mackerel, Herrings and Mullets**. | Major fish varieties include **Cat fish and Perches**. |
  
 ---

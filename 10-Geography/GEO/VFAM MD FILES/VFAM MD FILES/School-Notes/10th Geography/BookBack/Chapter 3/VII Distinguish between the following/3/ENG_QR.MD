@@ -1,9 +1,16 @@
-### 3. Marine vs Inland Fishing
+### Marine Fishing vs Inland Fishing
  
-| Point | **Marine** | **Inland** |
-|---|---|---|
-| Location | Sea / Ocean | Rivers, lakes, ponds |
-| Water type | Salt water | Fresh water |
-| Leading state | **Kerala** | **Andhra Pradesh** |
+| **Marine Fishing** | **Inland Fishing** |
+|---|---|
+| Sea and Oceans | Rivers and Lakes |
+| Salt Water | Fresh Water |
+| Kerala | Andhra Pradesh |
+| Mackerel, Herrings | Cat fish, Perches |
+ 
+> **Memory Trick:**
+>
+> **Marine = Sea + Salt Water**
+>
+> **Inland = Rivers + Fresh Water**
  
 ---

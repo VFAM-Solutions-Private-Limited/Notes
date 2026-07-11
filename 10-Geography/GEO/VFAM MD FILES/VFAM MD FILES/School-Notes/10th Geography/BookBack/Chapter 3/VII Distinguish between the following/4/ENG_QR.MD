@@ -1,12 +1,16 @@
-### 4. Alluvial Soil vs Black Soil
+### Alluvial Soils vs Black Soils
  
-| Point | **Alluvial Soil** | **Black Soil** |
-|---|---|---|
-| Formed by | Rivers depositing sand/silt | Deccan basalt rock weathering |
-| Colour | Light/dark grey | Deep black |
-| Rich in | Potash, lime | Calcium, magnesium, iron |
-| Crops | **Rice, Wheat** | **Cotton** |
-| Location | Ganga plains | Maharashtra, Malwa |
-| Other name | Khadar/Bhangar | Regur / Cotton soil |
+| **Alluvial Soils** | **Black Soils** |
+|---|---|
+| River deposits | Basalt rocks |
+| Sandy and loamy | Sticky and crack when dry |
+| River valleys and plains | Deccan Plateau |
+| Rice, Wheat, Sugarcane | Cotton, Sugarcane, Tobacco |
+ 
+> **Memory Trick:**
+>
+> **Alluvial = Rivers + Rice**
+>
+> **Black Soil = Basalt + Cotton**
  
 ---
