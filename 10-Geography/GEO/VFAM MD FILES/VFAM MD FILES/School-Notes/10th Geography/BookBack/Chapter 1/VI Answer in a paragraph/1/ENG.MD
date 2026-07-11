@@ -14,10 +14,12 @@ These are further divided into **three sub-ranges**:
 - Highest range with average height of **6000 m**.
 - Contains highest peaks: **Mt. Everest (8848 m)** and **Kanchenjunga (8586 m)**.
 - Always covered with **permanent snow** — source of glaciers like Gangotri and Yamunotri.
+
 **ii) Lesser Himalayas (Himachal)**
 - Middle range with height **3700–4500 m**.
 - Famous **hill stations**: Shimla, Mussoorie, Nainital, Darjeeling.
 - Ranges: Pir Panjal, Dhauladhar, Mahabharat.
+
 **iii) Outer Himalayas (Siwaliks)**
 - Lowest range, height **900–1100 m**.
 - Valleys between Siwaliks and Lesser Himalayas are called **Duns** (west) and **Duars** (east).
