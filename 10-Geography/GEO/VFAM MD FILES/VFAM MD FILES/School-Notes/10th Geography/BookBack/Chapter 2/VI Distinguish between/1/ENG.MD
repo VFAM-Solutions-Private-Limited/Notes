@@ -1,10 +1,9 @@
 ### 1. Weather vs Climate
  
-| Feature | **Weather** | **Climate** |
-|---|---|---|
-| **Definition** | State of atmosphere at a **specific time and place** | Average weather conditions over **30–35 years** |
-| **Duration** | Short-term (hours/days) | Long-term (decades) |
-| **Changeable** | Changes very quickly | Relatively stable |
-| **Example** | "It is raining today in Chennai" | "Chennai has a hot and humid climate" |
+| **Weather** | **Climate** |
+|---|---|
+| State of the atmosphere of a place at a given point of time. | Accumulation of daily and seasonal weather events of a given location over a period of time. |
+| Weather changes occur daily. | It is an average of weather conditions over a period of 30–35 years. |
+| Temperature, wind pressure, humidity, duration of sunlight and rainfall decide the weather. | Climate of a place is determined by latitude, altitude, distance from the sea, relief features etc. |
  
 ---

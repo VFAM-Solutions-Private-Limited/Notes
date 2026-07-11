@@ -1,11 +1,16 @@
-### NE Monsoon vs SW Monsoon
+### North East Monsoon vs South West Monsoon
  
-| Point | **SW Monsoon** | **NE Monsoon** |
-|---|---|---|
-| Months | Jun – Sep | Oct – Dec |
-| Direction | **SW → NE** | **NE → SW** |
-| Rainfall | **75%** of India | **35%** for South India |
-| Area covered | **Most of India** | AP, TN, Kerala, Karnataka |
-| Special feature | "Burst of Monsoon" | **Bay of Bengal Cyclones** |
+| **North East Monsoon** | **South West Monsoon** |
+|---|---|
+| **NE → SW** | **SW → NE** |
+| **Oct – Nov** | **Jun – Sep** |
+| Tamil Nadu & Andhra Pradesh get rainfall | Gives **75% of India's rainfall** |
+| **Retreating Monsoon** | **Advancing Monsoon** |
+ 
+> **Memory Trick:**
+>
+> **NE = October + Retreat + Tamil Nadu Rain**
+>
+> **SW = June + Advance + 75% Rain**
  
 ---

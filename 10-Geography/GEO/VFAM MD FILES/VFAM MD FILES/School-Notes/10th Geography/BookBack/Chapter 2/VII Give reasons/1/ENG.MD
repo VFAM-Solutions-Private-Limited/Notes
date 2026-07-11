@@ -1,11 +1,10 @@
-### 1. India has a **Tropical Monsoon Climate** — Why?
+### 1. India has a **Monsoon Type of Climate** — Why?
  
-- India lies between **8°4'N and 37°6'N latitudes**, mostly in the **tropical zone**.
-- The **Tropic of Cancer (23°30'N)** passes through the middle of India, giving the south part a **tropical climate** with high temperature throughout the year.
-- India's climate is **dominated by Monsoon winds** — which bring seasonal rainfall to most of the country.
-- The country experiences clear **4 seasons** driven by monsoon: winter, summer, rainy (SW monsoon), and retreating (NE monsoon).
-- The **Himalayas** blocks cold winds from Central Asia, keeping India warm.
-- The **Indian Ocean, Arabian Sea and Bay of Bengal** on three sides provide moisture for monsoon rainfall.
-- All these factors together give India a typical **tropical monsoon climate**.
+- India lies between the latitudes **20° N and 20° S** where monsoons are experienced.
+- The direction of wind changes with the **change in seasons**.
+- The monsoon winds prevail mainly over the **Indian Ocean**.
+- The climatic conditions are such that the winds blow from the **South-West from April to October**.
+- The winds blow from the **opposite direction, the North-East, from October to April**.
+- Therefore, India experiences a **Monsoon Type of Climate**.
+
 ---
- 

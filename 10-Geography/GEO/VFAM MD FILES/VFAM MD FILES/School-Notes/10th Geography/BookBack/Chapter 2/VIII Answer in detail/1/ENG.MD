@@ -16,6 +16,7 @@ When the monsoon strikes the southern tip of India, it divides into **two branch
 - Gives **heavy rainfall** to the **west coast** (windward side of Western Ghats).
 - Advances northward and is blocked by the **Himalayas** → causes heavy rain in North India.
 - **Aravalli Mountains** are parallel to wind direction → so **Rajasthan gets less rain**.
+
 **ii) Bay of Bengal Branch:**
 - Moves towards **Northeast India and Myanmar**.
 - Trapped by **Garo, Khasi and Jaintia hills** → causes heaviest rainfall at **Mawsynram** (Meghalaya) — **1141 cm/year** — highest in the world.

@@ -1,11 +1,16 @@
-### Tropical Evergreen vs Tropical Deciduous Forest
+### Tropical Evergreen Forests vs Deciduous Forests
  
-| Point | **Evergreen** | **Deciduous** |
-|---|---|---|
-| Rainfall | **>200 cm** | **100–200 cm** |
-| Leaves | **Don't shed** | **Shed in spring** |
-| Other name | — | **Monsoon Forest** |
-| Key trees | Rubber, Mahogany, Ebony | **Teak and Sal** |
-| Humidity | >70% | 60–70% |
+| **Tropical Evergreen Forests** | **Deciduous Forests** |
+|---|---|
+| Rainfall **200 cm and above** | Rainfall **100–200 cm** |
+| Trees **do not shed leaves** | Trees **shed leaves in summer** |
+| Rubber, Iron wood, Mahogany | Sandalwood, Teak, Sal, Padak |
+| Andaman & Nicobar, Western Ghats, North East | Madhya Pradesh, Odisha, Chhattisgarh, Tamil Nadu |
+ 
+> **Memory Trick:**
+>
+> **Evergreen = Always Green + Heavy Rain**
+>
+> **Deciduous = Dry Season + Leaf Shedding**
  
 ---
