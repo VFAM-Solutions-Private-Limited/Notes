@@ -1,9 +1,9 @@
-### 2. North Indian Rivers are **Perennial** (Never Dry Up)
- 
-- North Indian rivers are also called **Himalayan rivers**.
-- They originate from the **Himalayan glaciers** (like Gangotri, Yamunotri, Siachen).
-- Even in **summer**, the glaciers melt and keep the rivers flowing.
-- During **monsoon season**, they get heavy rainfall.
-- So they have **two sources of water** — glacial melt + rainfall — making them flow throughout the year.
-- That is why they are called **perennial rivers** (rivers that flow all year).
+### 2. North Indian Rivers are **Perennial Rivers**
+
+- North Indian rivers originate from the **Himalayan Mountains**.
+- The Himalayas have **permanent snow cover and glaciers**.
+- These rivers receive water from the **melting snow and glaciers throughout the year**.
+- They also receive water from **rainfall during the monsoon season**.
+- Therefore, North Indian rivers flow throughout the year and are called **perennial rivers**.
+
 ---
