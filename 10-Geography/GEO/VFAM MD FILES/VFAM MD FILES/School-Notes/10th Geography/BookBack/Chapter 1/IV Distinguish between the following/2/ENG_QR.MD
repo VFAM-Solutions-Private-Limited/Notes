@@ -1,11 +1,12 @@
-###  Western Ghats vs Eastern Ghats
+### 2. Western Ghats vs Eastern Ghats
  
-| Point | **Western Ghats** | **Eastern Ghats** |
-|---|---|---|
-| Continuity | **Continuous** ✔ | **Discontinuous** ✗ |
-| Rainfall | Heavy rainfall | Less rainfall |
-| Height | Higher | Lower |
-| Other name | Sahyadri | Poorvadri |
-| Meet at | **Nilgiri Hills** | **Nilgiri Hills** |
+| **Western Ghats** | **Eastern Ghats** |
+|---|---|
+| West Coast | East Coast |
+| Continuous Range | Broken by Rivers |
+| Higher (900–1600 m) | Lower (600 m) |
+| Anaimudi (2695 m) | Mahendragiri (1501 m) |
+| Rivers Originate Here | Rivers Cut Across |
+| Heavy Rainfall | Less Rainfall |
  
 ---
