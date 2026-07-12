@@ -3,6 +3,6 @@
 - **Assam**
 - **South Meghalaya**
 - **Tripura, Nagaland, Arunachal Pradesh**
-> 🌧️ World's highest rainfall = **Mawsynram, Meghalaya (1141 cm)**
+>  World's highest rainfall = **Mawsynram, Meghalaya (1141 cm)**
  
 ---
