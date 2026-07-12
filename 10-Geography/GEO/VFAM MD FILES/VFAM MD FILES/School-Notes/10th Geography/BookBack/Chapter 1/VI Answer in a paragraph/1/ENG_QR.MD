@@ -8,6 +8,7 @@
 - **Greater Himalayas (Himadri)** → Height: 6000m → Everest (8848m), Kanchenjunga (8586m)
 - **Lesser Himalayas (Himachal)** → Hill stations: Shimla, Mussoorie, Nainital, Darjeeling
 - **Outer Himalayas (Siwaliks)** → Height: 900–1100m → Duns (west), Duars (east)
+
 **③ Purvanchal Hills** → North-East India → Naga, Khasi, Garo, Manipur Hills
  
 **IMPORTANCE — 6 POINTS:**
