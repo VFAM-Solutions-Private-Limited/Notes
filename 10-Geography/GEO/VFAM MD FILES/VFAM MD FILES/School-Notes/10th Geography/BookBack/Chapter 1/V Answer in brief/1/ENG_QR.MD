@@ -6,7 +6,7 @@
 | East | **Bangladesh, Myanmar** |
 | South (Sea) | **Sri Lanka** |
  
-> Longest border = **Bangladesh (4097 km)**
+> Longest border = **Bangladesh (4156 km)**
 > Shortest border = **Afghanistan (106 km)**
  
 ---
