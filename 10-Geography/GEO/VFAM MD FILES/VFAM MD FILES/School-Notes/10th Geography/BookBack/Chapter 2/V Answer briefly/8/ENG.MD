@@ -5,5 +5,4 @@ Mangrove forests (also called **delta/swamp forests**) are found in:
 - **Mahanadi Delta** (Odisha)
 - **Godavari Delta** (Andhra Pradesh)
 - **Krishna Delta** (Andhra Pradesh)
-- Deltas, **estuaries and creeks** prone to tidal influence
 ---
